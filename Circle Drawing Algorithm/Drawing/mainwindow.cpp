@@ -1,0 +1,19 @@
+#include "mainwindow.h"
+#include "ui_mainwindow.h"
+
+MainWindow::MainWindow(QWidget *parent) :
+    QMainWindow(parent),
+    ui(new Ui::MainWindow)
+{
+    ui->setupUi(this);
+    img = new canvas(this);
+    img->setGeometry(200, 200, 600, 600);
+    // img->drawCircle(ui->radiusValueLineEdit->text().toInt());
+    img->show();
+}
+
+MainWindow::~MainWindow()
+{
+    delete ui;
+}
+
