@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/resim">
+        <file>images/nokta.png</file>
+    </qresource>
+</RCC>

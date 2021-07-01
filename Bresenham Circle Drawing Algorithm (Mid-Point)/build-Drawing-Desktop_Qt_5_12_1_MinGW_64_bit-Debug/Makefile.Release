@@ -222,10 +222,9 @@ release/moc_mainwindow.cpp: ../Drawing/mainwindow.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QLabel \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qlabel.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qframe.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/QMouseEvent \
 		release/moc_predefs.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/bin/moc.exe
-	D:\Program_Files\Qt\Qt5.12.1\5.12.1\mingw73_64\bin\moc.exe $(DEFINES) --include "C:/Users/Dell/Desktop/GitHub/Computer Graphics/Digital Differential Analyzer Algorithm (DDA)/build-Drawing-Desktop_Qt_5_12_1_MinGW_64_bit-Debug/release/moc_predefs.h" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++ -I"C:/Users/Dell/Desktop/GitHub/Computer Graphics/Digital Differential Analyzer Algorithm (DDA)/Drawing" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtANGLE -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore -I. -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++ -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32 -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/x86_64-w64-mingw32/include ..\Drawing\mainwindow.h -o release\moc_mainwindow.cpp
+	D:\Program_Files\Qt\Qt5.12.1\5.12.1\mingw73_64\bin\moc.exe $(DEFINES) --include "C:/Users/Dell/Desktop/GitHub/Computer Graphics/Bresenham Circle Drawing Algorithm (Mid-Point)/build-Drawing-Desktop_Qt_5_12_1_MinGW_64_bit-Debug/release/moc_predefs.h" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++ -I"C:/Users/Dell/Desktop/GitHub/Computer Graphics/Bresenham Circle Drawing Algorithm (Mid-Point)/Drawing" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtANGLE -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore -I. -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++ -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32 -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/x86_64-w64-mingw32/include ..\Drawing\mainwindow.h -o release\moc_mainwindow.cpp
 
 release/moc_canvas.cpp: ../Drawing/canvas.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QLabel \
@@ -333,10 +332,9 @@ release/moc_canvas.cpp: ../Drawing/canvas.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qfiledevice.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qvector2d.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qtouchdevice.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/QMouseEvent \
 		release/moc_predefs.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/bin/moc.exe
-	D:\Program_Files\Qt\Qt5.12.1\5.12.1\mingw73_64\bin\moc.exe $(DEFINES) --include "C:/Users/Dell/Desktop/GitHub/Computer Graphics/Digital Differential Analyzer Algorithm (DDA)/build-Drawing-Desktop_Qt_5_12_1_MinGW_64_bit-Debug/release/moc_predefs.h" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++ -I"C:/Users/Dell/Desktop/GitHub/Computer Graphics/Digital Differential Analyzer Algorithm (DDA)/Drawing" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtANGLE -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore -I. -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++ -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32 -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/x86_64-w64-mingw32/include ..\Drawing\canvas.h -o release\moc_canvas.cpp
+	D:\Program_Files\Qt\Qt5.12.1\5.12.1\mingw73_64\bin\moc.exe $(DEFINES) --include "C:/Users/Dell/Desktop/GitHub/Computer Graphics/Bresenham Circle Drawing Algorithm (Mid-Point)/build-Drawing-Desktop_Qt_5_12_1_MinGW_64_bit-Debug/release/moc_predefs.h" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++ -I"C:/Users/Dell/Desktop/GitHub/Computer Graphics/Bresenham Circle Drawing Algorithm (Mid-Point)/Drawing" -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtANGLE -ID:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore -I. -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++ -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/x86_64-w64-mingw32 -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include/c++/backward -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/lib/gcc/x86_64-w64-mingw32/7.3.0/include-fixed -ID:/Program_Files/Qt/Qt5.12.1/Tools/mingw730_64/x86_64-w64-mingw32/include ..\Drawing\canvas.h -o release\moc_canvas.cpp
 
 compiler_moc_objc_header_make_all:
 compiler_moc_objc_header_clean:
@@ -472,7 +470,6 @@ release/main.o: ../Drawing/main.cpp ../Drawing/mainwindow.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QLabel \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qlabel.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qframe.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/QMouseEvent \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QApplication \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qapplication.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qcoreapplication.h \
@@ -593,26 +590,7 @@ release/mainwindow.o: ../Drawing/mainwindow.cpp ../Drawing/mainwindow.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QLabel \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qlabel.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qframe.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/QMouseEvent \
-		ui_mainwindow.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/QVariant \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QApplication \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qapplication.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qcoreapplication.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qeventloop.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qdesktopwidget.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qguiapplication.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qinputmethod.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QMenuBar \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qmenubar.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qmenu.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qaction.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qactiongroup.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QStatusBar \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qstatusbar.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QToolBar \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/qtoolbar.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtWidgets/QWidget
+		ui_mainwindow.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o release\mainwindow.o ..\Drawing\mainwindow.cpp
 
 release/canvas.o: ../Drawing/canvas.cpp ../Drawing/canvas.h \
@@ -720,9 +698,7 @@ release/canvas.o: ../Drawing/canvas.cpp ../Drawing/canvas.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qfile.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qfiledevice.h \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qvector2d.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qtouchdevice.h \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/QMouseEvent \
-		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtCore/qmath.h
+		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/include/QtGui/qtouchdevice.h
 	$(CXX) -c $(CXXFLAGS) $(INCPATH) -o release\canvas.o ..\Drawing\canvas.cpp
 
 release/moc_mainwindow.o: release/moc_mainwindow.cpp 

@@ -9,19 +9,23 @@ class canvas : public QLabel
     Q_OBJECT
 public:
     explicit canvas(QWidget *parent = nullptr);
-    void drawLine();
+    // Bresenham's Circle Drawing Algorithm
+    void symmetry(int x, int y);
+    void fillCircle(int r);
+    void bresenhamDrawCircle(int r);
 
 private:
-    bool control;
     QRgb color;
-    QPoint point1, point2;
     QImage theme;
+    QPoint point;
 
-    void mousePressEvent(QMouseEvent*);
+    // Function
+    void mousePressEvent(QMouseEvent *);
+
 
 signals:
 
 public slots:
 };
 
-#endif // IMAGECANVAS_H
+#endif // CANVAS_H

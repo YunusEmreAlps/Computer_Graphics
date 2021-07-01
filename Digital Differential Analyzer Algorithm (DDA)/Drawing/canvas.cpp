@@ -16,7 +16,7 @@ canvas::canvas(QWidget *parent) : QLabel(parent)
     color = qRgb(255, 255, 0);
 }
 
-void canvas::drawline()
+void canvas::drawLine()
 {
     double point1x, point1y, point2x, point2y;
     double dy, dx, x, y;
@@ -71,7 +71,7 @@ void canvas::mousePressEvent(QMouseEvent *event)
     else {
        point2 = event->pos();
        control = false;
-       drawline();
+       drawLine();
     }
 
     // Draw

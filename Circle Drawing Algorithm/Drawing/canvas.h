@@ -11,6 +11,7 @@ public:
     explicit canvas(QWidget *parent = nullptr);
     // Circle Drawing Algorithm
     void drawCircle(double r);
+    void drawQuizCircle(double xcor, double ycor, double r);
 
 private:
     QRgb color;

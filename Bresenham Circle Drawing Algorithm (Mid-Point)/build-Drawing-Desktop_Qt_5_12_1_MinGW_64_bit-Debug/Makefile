@@ -208,7 +208,6 @@ Makefile: ../Drawing/Drawing.pro D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/qt_config.prf \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++/qmake.conf \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/spec_post.prf \
-		.qmake.stash \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/exclusive_builds.prf \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/toolchain.prf \
 		D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/default_pre.prf \
@@ -382,7 +381,6 @@ D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/qt_functions.prf
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/qt_config.prf:
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/win32-g++/qmake.conf:
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/spec_post.prf:
-.qmake.stash:
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/exclusive_builds.prf:
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/toolchain.prf:
 D:/Program_Files/Qt/Qt5.12.1/5.12.1/mingw73_64/mkspecs/features/default_pre.prf:
